@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gemini_chat/myHomePage.dart';
+import 'package:flutter_gemini_chat/myHomePage.dart';
 
 class Onboarding extends StatelessWidget {
   const Onboarding({super.key});

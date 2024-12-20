@@ -1,4 +1,4 @@
-# Gemini Chat  
+# flutter_gemini_chat
 
 Gemini Chat is a smart, real-time chat app powered by **Google Gemini AI**. Built using the **ChatGPT Chat Bot App UI** from Figma Community, it features **Riverpod** for efficient state management.
 
